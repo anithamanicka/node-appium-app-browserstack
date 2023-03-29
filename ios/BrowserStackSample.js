@@ -5,11 +5,11 @@ let Q = wd.Q;
 
 desiredCaps = {
   // Set your BrowserStack access credentials
-  'browserstack.user' : 'YOUR_USERNAME',
-  'browserstack.key' : 'YOUR_ACCESS_KEY',
+ 'browserstack.user' : 'vijaimohan_kSewhq',
+  'browserstack.key' : 'psB2pLh6WapPJiGmWZaJ',
 
     // Set URL of the application under test
-  'app' : 'bs://<app-id>',
+  'app' : 'bs://c21c9b07b1c5df06f60654521f1cf730b8d9b0b9',
 
   // Specify device and os_version for testing
   'device' : 'iPhone 11 Pro',
